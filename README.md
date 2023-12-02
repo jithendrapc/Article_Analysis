@@ -18,11 +18,11 @@ PERSONAL PRONOUNS
 AVG WORD LENGTH
 
 Workflow:
-
+\n
 Data Extraction:
 For each of the articles, given in the input.xlsx file, extracted the article text and save the extracted article in a text file with URL_ID as its file name.
 While extracting text,  program extracts only the article title and the article text and  skipped the website header, footer, or anything other than the article text which are not considerable.
-
+\n
 Data Analysis:
 For each of the extracted texts from the article, performed textual analysis and computed variables and saved the output in  “Output Data Structure.xlsx”.
 
